@@ -30,11 +30,92 @@ Visualizing Data using Matplotlib
 Line Plots
 
 
-## 1.
-## 1.
-## 1.
-## 1.
-## 1.
-## 1.
+## 2. Area Plots   , Histograms , Bar Charts
+
+https://github.com/Rishavraj839/Data-Visualization-With-Python/blob/main/Area-Plots-Histograms-and-Bar-Charts-py-v2.0.ipynb
+
+Exploring Datasets with pandas
+
+
+Downloading and Prepping Data
+
+
+Visualizing Data using Matplotlib
+
+
+Area Plots
+
+
+Histograms
+
+
+Bar Charts
+
+
+## 3. Pie Charts ,Box Plots ,Scatter Plots ,Bubble Plots
+
+https://github.com/Rishavraj839/Data-Visualization-With-Python/blob/main/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots.ipynb
+
+Exploring Datasets with pandas
+
+
+Downloading and Prepping Data
+
+
+Visualizing Data using Matplotlib
+
+
+Pie Charts
+
+
+Box Plots
+
+
+Scatter Plots
+
+
+Bubble Plots
+
+
+## 4. Waffle Charts,  Word Clouds,  Regression Plots
+
+https://github.com/Rishavraj839/Data-Visualization-With-Python/blob/main/Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb
+
+Exploring Datasets with pandas
+
+
+Downloading and Prepping Data
+
+
+Visualizing Data using Matplotlib
+
+
+Waffle Charts
+
+
+Word Clouds
+
+
+Regression Plots
+
+
+## 5.Introduction to Folium ,Map with Markers ,Choropleth Maps 
+
+
+
+Exploring Datasets with pandas
+
+
+Downloading and Prepping Data
+
+
+Introduction to Folium
+
+
+Map with Markers
+
+
+Choropleth Maps
+
 
 ## 1.**
