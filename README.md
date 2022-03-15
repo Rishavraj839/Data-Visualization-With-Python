@@ -101,6 +101,7 @@ Regression Plots
 
 ## 5.Gnerating Maps With Python
 
+https://github.com/Rishavraj839/Data-Visualization-With-Python/blob/main/Generating-Maps-in-Python-py-v2.0.ipynb
 
 
 Exploring Datasets with pandas
@@ -118,4 +119,3 @@ Map with Markers
 Choropleth Maps
 
 
-## 1.**
