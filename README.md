@@ -77,7 +77,7 @@ Scatter Plots
 Bubble Plots
 
 
-## 4. Waffle Charts,  Word Clouds,  Regression Plots
+## 4. Waffle Charts, Word Clouds, Regression Plots
 
 https://github.com/Rishavraj839/Data-Visualization-With-Python/blob/main/Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb
 
@@ -99,7 +99,7 @@ Word Clouds
 Regression Plots
 
 
-## 5.Introduction to Folium ,Map with Markers ,Choropleth Maps 
+## 5.Gnerating Maps With Python
 
 
 
