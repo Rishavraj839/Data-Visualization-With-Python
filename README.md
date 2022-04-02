@@ -55,7 +55,7 @@ Bar Charts
 
 ## 3. Pie Charts ,Box Plots ,Scatter Plots ,Bubble Plots
 
-https://github.com/Rishavraj839/Data-Visualization-With-Python/blob/main/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots.ipynb
+https://nbviewer.org/github/Rishavraj839/Data-Visualization-With-Python/blob/main/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots.ipynb
 
 Exploring Datasets with pandas
 
