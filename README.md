@@ -121,7 +121,8 @@ Choropleth Maps
 
 ## 6. Plotly basics: scatter, line, bar, bubble, histogram, pie, sunburst
 
-https://github.com/Rishavraj839/Data-Visualization-With-Python/blob/main/Plotly_Basics-pdf.pdf
+
+https://nbviewer.org/github/Rishavraj839/Data-Visualization-With-Python/blob/main/Plotly_Basics.ipynb
 
 
 Plotly python
