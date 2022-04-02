@@ -32,7 +32,8 @@ Line Plots
 
 ## 2. Area Plots   , Histograms , Bar Charts
 
-https://github.com/Rishavraj839/Data-Visualization-With-Python/blob/main/Area-Plots-Histograms-and-Bar-Charts-py-v2.0.ipynb
+
+https://nbviewer.org/github/Rishavraj839/Data-Visualization-With-Python/blob/main/Area-Plots-Histograms-and-Bar-Charts-py-v2.0.ipynb
 
 Exploring Datasets with pandas
 
