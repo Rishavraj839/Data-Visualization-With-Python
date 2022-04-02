@@ -5,7 +5,7 @@
 
 ## 1. Introduction to Matplotlib and Line Plots
 
-https://github.com/Rishavraj839/Data-Visualization-With-Python/blob/main/Introduction-to-Matplotlib-and-Line-Plots.ipynb
+https://nbviewer.org/github/Rishavraj839/Data-Visualization-With-Python/blob/main/Introduction-to-Matplotlib-and-Line-Plots.ipynb
   
   
   Exploring Datasets with pandas
